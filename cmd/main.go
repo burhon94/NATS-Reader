@@ -1,13 +1,13 @@
 package main
 
 import (
-	"NATS_reader/pkg/events"
+	"github.com/burhon94/NATS-Reader/pkg/events"
 	"log"
 	"net"
 	"net/http"
 
-	"NATS_reader/cmd/app"
-	"NATS_reader/pkg/configs"
+	"github.com/burhon94/NATS-Reader/cmd/app"
+	"github.com/burhon94/NATS-Reader/pkg/configs"
 
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"

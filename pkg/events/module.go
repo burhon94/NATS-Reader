@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"NATS_reader/pkg/configs"
+	"github.com/burhon94/NATS-Reader/pkg/configs"
 
 	"github.com/nats-io/nats.go"
 	"github.com/nats-io/stan.go"

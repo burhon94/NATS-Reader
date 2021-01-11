@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	nats "NATS_reader/pkg/events"
+	nats "github.com/burhon94/NATS-Reader/pkg/events"
 
 	"github.com/gorilla/mux"
 )
