@@ -1,4 +1,4 @@
-GET localhost:8889:/api/health
+GET localhost:8889/api/health
 
 ###
-GET localhost:8889:/api/reader
+GET localhost:8889/api/reader

@@ -50,4 +50,5 @@ func HandleStan(msg *stan.Msg) {
 		log.Fatal(err)
 	}
 
+	log.Println(request)
 }
